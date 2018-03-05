@@ -22,3 +22,16 @@ C:\Projects\workshop\TyresStore\TyresStore.Repository\obj\Debug\TyresStore.Repos
 C:\Projects\workshop\TyresStore\TyresStore.Repository\obj\Debug\TyresStore.Repository.csproj.CoreCompileInputs.cache
 C:\Projects\workshop\TyresStore\TyresStore.Repository\obj\Debug\TyresStore.Repository.dll
 C:\Projects\workshop\TyresStore\TyresStore.Repository\obj\Debug\TyresStore.Repository.pdb
+C:\Users\Norbyka\Documents\Internship\TyresStore\TyresStore\TyresStore.Repository\bin\Debug\TyresStore.Repository.dll.config
+C:\Users\Norbyka\Documents\Internship\TyresStore\TyresStore\TyresStore.Repository\bin\Debug\TyresStore.Repository.dll
+C:\Users\Norbyka\Documents\Internship\TyresStore\TyresStore\TyresStore.Repository\bin\Debug\TyresStore.Repository.pdb
+C:\Users\Norbyka\Documents\Internship\TyresStore\TyresStore\TyresStore.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Norbyka\Documents\Internship\TyresStore\TyresStore\TyresStore.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Norbyka\Documents\Internship\TyresStore\TyresStore\TyresStore.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Norbyka\Documents\Internship\TyresStore\TyresStore\TyresStore.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Norbyka\Documents\Internship\TyresStore\TyresStore\TyresStore.Repository\obj\Debug\TyresStore.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Norbyka\Documents\Internship\TyresStore\TyresStore\TyresStore.Repository\obj\Debug\TyresStore.Repository.Migrations.InitialCreate.resources
+C:\Users\Norbyka\Documents\Internship\TyresStore\TyresStore\TyresStore.Repository\obj\Debug\TyresStore.Repository.csproj.GenerateResource.Cache
+C:\Users\Norbyka\Documents\Internship\TyresStore\TyresStore\TyresStore.Repository\obj\Debug\TyresStore.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Norbyka\Documents\Internship\TyresStore\TyresStore\TyresStore.Repository\obj\Debug\TyresStore.Repository.dll
+C:\Users\Norbyka\Documents\Internship\TyresStore\TyresStore\TyresStore.Repository\obj\Debug\TyresStore.Repository.pdb
